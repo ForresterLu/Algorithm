@@ -2,6 +2,7 @@ package huawei;
 
 import java.util.Scanner;
 // https://blog.csdn.net/huyr_123/article/details/81670972
+
 public class Zuixiaogongbeishu {
 
     public static void main(String []args){
